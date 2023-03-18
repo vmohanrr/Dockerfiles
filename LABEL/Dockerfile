@@ -1,4 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="RAMAMOHAN"\
-      COURSE="DOCKER"
+      COURSE="DOCKER"\
       DURATION="1 MONTH"
